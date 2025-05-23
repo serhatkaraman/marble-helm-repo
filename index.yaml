@@ -24,6 +24,6 @@ entries:
     sources:
     - https://github.com/edgelesssys/marblerun
     urls:
-    - serhatkaraman.github.io/marble-helm-repo/marblerun-1.7.0.tgz
+    - github.com/serhatkaraman/marble-helm-repo/raw/refs/heads/main/marblerun-1.7.0.tgz
     version: 1.7.0
 generated: "2025-05-23T15:03:08.888647+03:00"
