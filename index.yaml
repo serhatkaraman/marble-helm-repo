@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  marblerun:
+  - annotations:
+      artifacthub.io/links: |
+        - name: Chart Source
+          url: https://github.com/edgelesssys/marblerun/tree/master/charts
+    apiVersion: v2
+    appVersion: v1.7.0
+    created: "2025-05-23T15:03:08.889893+03:00"
+    description: The control plane for confidential computing.
+    digest: d7c54447b1dd491ebbe7d5ca65d0a8f4a6320627af5455683c6394d3097c031e
+    home: https://edgeless.systems
+    icon: https://raw.githubusercontent.com/edgelesssys/helm/main/marblerun_icon.svg
+    keywords:
+    - service-mesh
+    - confidential-computing
+    kubeVersion: '>=1.13.0-0'
+    maintainers:
+    - email: contact@edgeless.systems
+      name: Edgeless Systems
+      url: https://edgeless.systems/
+    name: marblerun
+    sources:
+    - https://github.com/edgelesssys/marblerun
+    urls:
+    - serhatkaraman.github.io/marble-helm-repo/marblerun-1.7.0.tgz
+    version: 1.7.0
+generated: "2025-05-23T15:03:08.888647+03:00"
